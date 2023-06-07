@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Dark City Theme",
+    "theme": {
+        "images": {
+            "theme_ntp_background": "images/image.jpg"
+        },
+        "properties": {
+            "ntp_background_repeat": "repeat"
+        },
+        "colors": {
+            "frame": [0, 0, 0],
+            "toolbar": [53, 54, 58],
+            "ntp_text" : [231, 238, 255],
+            "ntp_link" : [73, 199, 255],
+            "ntp_section" : [207, 221, 192],
+            "button_background" : [1, 1, 1]      
+        },
+        "tints": {
+            "buttons": [0.33, 0.5, 0.45],
+            "background_tab": [0.33, 0.33, 0.04]
+        }
+    }
+}
